@@ -4,10 +4,6 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="https://instagram.com/_houseyoon">
-    <img 
-        src="http://img.shields.io/badge/-Velog-20C997?style=flat&logo=Velog&link=https://instagram.com/fivepxint/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 <b>Skills</b> ✨
