@@ -4,7 +4,7 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a> 
 
 <b>Skills</b> ✨
 
