@@ -1,3 +1,4 @@
+<!--
 <b>About Me</b>✨
 
 <a href="https://instagram.com/houseyoon">
@@ -29,4 +30,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
