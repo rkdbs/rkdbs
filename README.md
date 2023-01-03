@@ -4,11 +4,7 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="https://tistory.com/houseyoon">
-    <img 
-        src="http://img.shields.io/badge/-TISTORY-000000?style=flat&logo=Tistory&link=https://tistory.com/fivepxint/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> 
+</a>
 
 <b>Skills</b> ✨
 
