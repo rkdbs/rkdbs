@@ -6,10 +6,6 @@
 <a href="https://houseyoon.tistory.com/">
     <img src="http://img.shields.io/badge/-Tistory-000000?style=flat&logo=Tistory&link=https://tistory.com/fivepxint/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://houseyoon.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
-</a>
-
 
 <b>Skills</b> ✨
 
