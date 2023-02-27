@@ -1,9 +1,7 @@
 <b>About Me</b>✨
 
 <a href="https://instagram.com/_houseyoon">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 </a>
 
 <b>Skills</b> ✨
