@@ -13,7 +13,7 @@
 
 <b>Tools</b> ✨
 
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=firebase&logoColor=white"/>
 
 <!--
 Here are some ideas to get you started:
