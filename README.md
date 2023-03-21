@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=GaYoon&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=GaYoon&fontSize=90" /> <img src="https://github-readme-stats.vercel.app/api?username=rkdbs&show_icons=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkdbs&layout=compact">
 
 ✨ <b>About Me</b>
 
@@ -17,9 +17,6 @@
 ✨ <b>Tools</b>
 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=firebase&logoColor=white"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkdbs&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=rkdbs&show_icons=true">
 
 <!--
 Here are some ideas to get you started:
