@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=GaYoon's&nbsp;Github&fontSize=90" /> <img src="https://github-readme-stats.vercel.app/api?username=rkdbs&show_icons=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkdbs&layout=compact">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GaYoon's%20Git&fontSize=90) <img src="https://github-readme-stats.vercel.app/api?username=rkdbs&show_icons=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkdbs&layout=compact">
 
 ✨ <b>About Me</b>
 
