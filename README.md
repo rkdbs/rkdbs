@@ -11,7 +11,7 @@
     <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-#### SKILLS
+#### LANGUAGE
 <img src="https://img.shields.io/badge/C-A8b9cc?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
