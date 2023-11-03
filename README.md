@@ -1,24 +1,28 @@
-### 🥔 Yang Ga Yoon 🥔
-#
-#### SOCIAL
-<a href="https://github.com/_rkdbs">
-    <img src="http://img.shields.io/badge/-Github-181717?style=flat&logo=Github&link=https://github.com/fivepxint/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://houseyoon.tistory.com/">
-    <img src="http://img.shields.io/badge/-Tistory-000000?style=flat&logo=Tistory&link=https://tistory.com/fivepxint/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://instagram.com/_houseyoon">
-    <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-</a>
+### 안녕하세요, 양가윤입니다! 🙌
 
-#### LANGUAGE
-<img src="https://img.shields.io/badge/C-A8b9cc?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+<details>
+<summary>
+  소개
+</summary>
+   <br>
+    
+- 🏫 프론트엔드 개발자가 되기 위해 열심히 공부하고 있어요.
+- 💼 제 코드는 [이곳!](https://github.com/rkdbs) 을 통해 확인할 수 있어요.
 
-#### TOOLS
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual studio code&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual studio&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"> <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellij idea&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse ide&logoColor=white">  
+</details>
+
+<details>
+<summary>
+  사용하는 언어
+</summary>
+   <br>
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
