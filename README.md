@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4279D7&random=false&width=435&lines=Gayoon's+GitHub!)](https://git.io/typing-svg)
+
+<h6>코딩에 관련 글은 <a href="https://houseyoon.tistory.com/">이곳!</a> 을 통해 조금씩 정리하고 있어요🙌</h6>
+
 <!--
 ### 안녕하세요, 양가윤입니다! 🙌
 
